@@ -31,8 +31,8 @@
 ## Install
 
     pip3 install requests pysocks
-    git clone https://github.com/Leeon123/CC-attack.git
-    cd CC-attack
+    git clone https://github.com/ferhatal/cc-attack.git
+    cd cc-attack
 
 ## Usage
 
